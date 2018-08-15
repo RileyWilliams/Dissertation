@@ -6,3 +6,4 @@
  - https://www.netresec.com/index.ashx?page=PcapFiles
  - http://www.secrepo.com
  - https://archive.wrccdc.org/pcaps/2018/
+ - https://www.hs-coburg.de/index.php?id=927
